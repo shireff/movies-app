@@ -1,0 +1,59 @@
+.ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+.abotAria {
+    background-image: url(./../../img/bg-image-1.jpg);
+    width: 100%;
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+    /* z-index: 1; */
+}
+
+.li {
+    font-weight: 400;
+    color: #fff;
+}
+
+.liblue {
+    font-weight: 700;
+    color: #0d6efd;
+}
+
+.h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    color: #0d6efd;
+}
+
+.img {
+    border-radius: 8px;
+}
+
+.h1A {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #0d6efd;
+}
+
+.p {
+    font-size: 1.5rem;
+    font-weight: unset;
+}
+
+.imgs {
+    height: 350px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.h {
+    color: #0d6efd;
+    font-size: 2.3rem;
+    font-weight: 700;
+}
